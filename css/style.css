@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Lora&family=Nanum+Myeongjo&family=Playfair+Display&family=Raleway&family=Roboto&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+body {
+	font-family: Nanum Myeongjo;
+	font-size: 15px;
+	padding-bottom: 70px;
+	background-color: #E1EEDD;
+}
